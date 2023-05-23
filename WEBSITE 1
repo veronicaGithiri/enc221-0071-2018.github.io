@@ -1,1 +1,4 @@
-
+$ git clone https://github.com/veronicaGithiri/enc221-0071-2018.github.io
+$ cd enc221-0071-2018.io
+$ echo "WHEEL WORLD" > index.html
+$ git push -u origin main
